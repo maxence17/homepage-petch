@@ -1,33 +1,3 @@
-/*.banner {
-    height: 100px;
-    background-image: url('../..//images/bulldog.jpg');
-    background-size: cover;
-    background-position: center;
-    padding: 200px 0;
-}*/
 
-/*.container > img {
-  height: 80vh;
-  width: 100%;
-}*/
 
-.container {
-  background-image: url('../..//images/dogPetch.jpeg');
-  background-size: cover;
-  background-position: center;
-  max-width: 100%;
-  padding-left: 0px;
-  padding-right: 0px;
-  height: 90vh;
-}
 
-.banner h1 {
-  font-size: 55px;
-  color: #334cff;
-}
-
-.text-center {
-  font-size: 30px;
-  color: #0a1985;
-  text-align: center;
-}
