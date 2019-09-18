@@ -1,0 +1,44 @@
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+ }
+
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline > li > a {
+  font-size: 50px;
+}
+
+.list-inline i {
+  color: rgb(150, 150, 150);
+}
+
+.list-inline i:hover {
+  color: #F5A9BC;
+}
+
+.btn-blue:hover {
+    background-color: black;
+    color: white;
+}
+
+.footer {
+  background-color: #0a5585;
+  height: 120px;
+  /*display: flex;*/
+}
+
+.footer-content {
+    width: 500px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#h4 {
+  margin: 0px;
+}

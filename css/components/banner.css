@@ -1,0 +1,23 @@
+.banner {
+    height: 100px;
+    background-image: url('../..//images/bulldog.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+}
+
+.container {
+  margin-left: 50px;
+  margin-bottom: 100px;
+}
+
+.banner h1 {
+  font-size: 55px;
+  color: #334cff;
+}
+
+.text-center {
+  font-size: 30px;
+  color: #0a1985;
+  text-align: center;
+}
